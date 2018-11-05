@@ -3,6 +3,7 @@
 My Forecast
 
 Democrats will win the House but not the Senate.
+There will be record high voter turnout, especially from 18-25 year olds.
 
 Arizona
 Sinema will beat McSally
@@ -15,5 +16,6 @@ Ted Cruz will beat O'Rourke
 Florida
 Nelson will beat Scott
   
-  
+
+
 *AFiveThirtyEight
